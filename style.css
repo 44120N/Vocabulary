@@ -283,8 +283,7 @@ a{
 }
 
 #vocab{
-/*     margin-bottom: 4vh; */
-    padding-bottom: 4vh;
+    margin: 0 0 4vh 0;
 }
 #vocab p{
     line-height: normal;
