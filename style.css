@@ -281,6 +281,13 @@ a{
     font-family: var(--body-font);
     font-weight: var(--font-regular);
 }
+
+#vocab{
+    margin-bottom: 4vh;
+}
+#vocab p{
+    line-height: normal;
+}
 .lineh{
     width: auto;
     margin: 0 auto;
