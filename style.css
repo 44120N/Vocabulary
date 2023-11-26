@@ -282,11 +282,11 @@ a{
     font-weight: var(--font-regular);
 }
 
-#vocab{
-    margin: 0 0 4vh 0;
+#vocab {
+    margin-bottom: 4vh !important;
 }
 #vocab p{
-    line-height: normal;
+    line-height: normal !important;
 }
 .lineh{
     width: auto;
